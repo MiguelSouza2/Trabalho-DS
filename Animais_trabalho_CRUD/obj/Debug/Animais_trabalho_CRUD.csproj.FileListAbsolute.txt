@@ -1,5 +1,0 @@
-C:\Users\ds-etim-2\Documents\DS\exercícios\crud\Animais_trabalho_CRUD\Animais_trabalho_CRUD\bin\Debug\Animais_trabalho_CRUD.exe.config
-C:\Users\ds-etim-2\Documents\DS\exercícios\crud\Animais_trabalho_CRUD\Animais_trabalho_CRUD\obj\Debug\Animais_trabalho_CRUD.csprojResolveAssemblyReference.cache
-C:\Users\ds-etim-2\Documents\DS\exercícios\crud\Animais_trabalho_CRUD\Animais_trabalho_CRUD\obj\Debug\Animais_trabalho_CRUD.Form1.resources
-C:\Users\ds-etim-2\Documents\DS\exercícios\crud\Animais_trabalho_CRUD\Animais_trabalho_CRUD\obj\Debug\Animais_trabalho_CRUD.Properties.Resources.resources
-C:\Users\ds-etim-2\Documents\DS\exercícios\crud\Animais_trabalho_CRUD\Animais_trabalho_CRUD\obj\Debug\Animais_trabalho_CRUD.csproj.GenerateResource.Cache
